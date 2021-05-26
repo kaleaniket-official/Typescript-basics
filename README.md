@@ -1,0 +1,2 @@
+# Typescript-basics
+Understant Typescript
